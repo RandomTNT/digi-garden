@@ -1,5 +1,5 @@
 ---
-title: Welcome to [Voidworks!](https://voidworks.ru:8443)
+title: Welcome to Voidworks!
 ---
 
 This is a blank Quartz installation.
